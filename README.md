@@ -1,4 +1,4 @@
-# ECE 6900: Secure AI Energy Applications (ECE Special Topics Course @ TnTech)
+# ECE 6900: Secure AI Energy Applications 
 
 
 
