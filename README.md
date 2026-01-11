@@ -1,4 +1,4 @@
-# ECE 6900: Secure AI Energy Applications 
+# ECE 6900: Secure AI-Driven Energy Applications 
 
 
 
