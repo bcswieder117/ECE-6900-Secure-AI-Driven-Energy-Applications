@@ -1,6 +1,6 @@
 # ECE 6900: Secure AI-Driven Energy Applications 
 
-This was a special topics course for Spring 2026 and will contain all work done in this course. 
+This was a special topics course for Spring 2026 and will contain all work done in this course. This is a group-project based course where most of the work revolves around my group team members and myself.
 
 **Course Description**: This interdisciplinary course explores the intersection of Artificial Intelligence, cybersecurity, and 
 energy systems, equipping students with both foundational knowledge and convergence insights. 
